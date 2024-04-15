@@ -1,6 +1,4 @@
-package person;
-
-import java.util.ArrayList;
+package person;
 
 public class Main {
 	public static void main(String[] args) {
